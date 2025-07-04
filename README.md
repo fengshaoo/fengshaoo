@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello%20World%EF%BC%81%2B%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5%EF%BC%81;%E6%88%91%E6%98%AF%E8%8F%A0%E8%90%9D%E5%90%B9%E6%9A%B4%E9%9B%AA%2B-%2B%E4%B8%80%E5%90%8D%E5%8E%8C%E7%83%A6%E7%BC%96%E7%A8%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;%E6%9C%9F%E5%BE%85%E5%B8%A6%E8%96%AA%E6%97%85%E6%B8%B8%E7%9A%84%E6%97%A5%E5%AD%90%20%3B%F0%9F%98%8A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello%20World%EF%BC%81%20%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5%EF%BC%81;%E6%88%91%E6%98%AF%E8%8F%A0%E8%90%9D%E5%90%B9%E6%9A%B4%E9%9B%AA%20%E4%B8%80%E5%90%8D%E5%8E%8C%E7%83%A6%E7%BC%96%E7%A8%8B%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;%E6%9C%9F%E5%BE%85%E5%B8%A6%E8%96%AA%E6%97%85%E6%B8%B8%E7%9A%84%E6%97%A5%E5%AD%90%20%3B%F0%9F%98%8A" />
 </div>
 
 <br/>
