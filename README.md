@@ -27,7 +27,7 @@
 ![snake gif](https://raw.githubusercontent.com/fengshaoo/fengshaoo/output/github-contribution-grid-snake.svg)
 
 
-### 💭 座右铭
+### 💭 Motto
 
 <div align="center">
   <i>「卧槽，我真的不想上班啊」</i>
