@@ -6,32 +6,23 @@
 
 <img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
 
-### 👨‍💻 关于我
+### 👨‍💻 About Me
 
 - 🔭 正在从事~~令人兴奋~~的~~开源~~项目开发（连续熬夜，头发越来越多）
-- 🌱 专注于 Javb、Pythom（我都会一点，但是我啥都不精）
+- 🌱 专注于 Java、Python（我都会一点，但是我啥都不精）
 - 💡 热衷于探索新技术栈和构建有趣的项目（我啥都想学，我啥都学不会）
 - 🎯 目标：为开源项目做出贡献（如果我有时间的话）
 - ⚡  我不想把时间浪费在无意义的事情上（比如上班）
 
 <br/>
 
-### 🛠️ 技术栈
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,redis,nginx,git,pycharm,idea,vscode,docker,linux,windows" />
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,docker,mysql,redis,nginx,linux,git,vim,pycharm,idea,vscode,windows" />
-</div>
-
-### 🐍 GitHub Contribution Snake
+### 🐍 Contribution
 
 ![snake gif](https://raw.githubusercontent.com/fengshaoo/fengshaoo/output/github-contribution-grid-snake.svg)
 
