@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=你好，世界！+👋;欢迎来到我的GitHub主页！;我是菠萝吹暴雪+-+一名厌烦编程的开发者;期待带薪旅游的日子" />
+</div>
 
-<!--
-**fengshaoo/fengshaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 关于我
+
+- 🔭 正在从事~~令人兴奋~~的~~开源~~项目开发（连续熬夜，头发越来越多）
+- 🌱 专注于 Javb、Pythom（我都会一点，但是我啥都不精）
+- 💡 热衷于探索新技术栈和构建有趣的项目（我啥都想学，我啥都学不会）
+- 🎯 目标：为开源项目做出贡献（如果我有时间的话）
+- ⚡  我不想把时间浪费在无意义的事情上（比如上班））
+
+<br/>
+
+### 🛠️ 技术栈
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,docker,mysql,redis,nginx,linux,git,vim,pycharm,idea,vscode,windows" />
+</div>
+
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/fengshaoo/fengshaoo/output/github-contribution-grid-snake.svg)
+
+
+### 💭 座右铭
+
+<div align="center">
+  <i>「卧槽，我真的不想上班啊」</i>
+</div>
+
+<br/>
+<!-- 感谢访问，颜色中国色取值（碧清：#5cb3cc）：http://zhongguose.com/ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
+</div>
