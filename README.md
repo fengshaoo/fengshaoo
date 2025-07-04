@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=你好，世界！+👋;欢迎来到我的GitHub主页！;我是菠萝吹暴雪+-+一名厌烦编程的开发者;期待带薪旅游的日子" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello World" />
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
 - 🌱 专注于 Javb、Pythom（我都会一点，但是我啥都不精）
 - 💡 热衷于探索新技术栈和构建有趣的项目（我啥都想学，我啥都学不会）
 - 🎯 目标：为开源项目做出贡献（如果我有时间的话）
-- ⚡  我不想把时间浪费在无意义的事情上（比如上班））
+- ⚡  我不想把时间浪费在无意义的事情上（比如上班）
 
 <br/>
 
