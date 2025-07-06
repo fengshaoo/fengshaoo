@@ -27,10 +27,9 @@
 ![snake gif](https://raw.githubusercontent.com/fengshaoo/fengshaoo/output/github-contribution-grid-snake.svg)
 
 
-<details>
-  <summary>：zap: Github Stats</summary>
-  <img align="left" alt="codesTACKr's Github stats" src="https://github-readme-stats-iota-orcin-82.vercel.app/api?username=fengshaoo&show_icons=true&hide_border=true" />
-</details>
+<div>
+  ![My GitHub stats](https://github-readme-stats-iota-orcin-82.vercel.app/api?username=fengshaoo&show_icons=true&theme=radical)
+</div>
 
 <br/>
 
