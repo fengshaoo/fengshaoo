@@ -28,7 +28,7 @@
 
 
 <div>
-  ![My GitHub stats](https://github-readme-stats-iota-orcin-82.vercel.app/api?username=fengshaoo&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats-iota-orcin-82.vercel.app/api?username=fengshaoo&show_icons=true&theme=omni" />
 </div>
 
 <br/>
